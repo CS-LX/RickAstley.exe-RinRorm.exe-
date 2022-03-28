@@ -1,0 +1,15 @@
+D:\CS Project\RinRorm\bin\Debug\RinRorm.exe.config
+D:\CS Project\RinRorm\bin\Debug\RinRorm.exe
+D:\CS Project\RinRorm\bin\Debug\RinRorm.pdb
+D:\CS Project\RinRorm\obj\Debug\RinRorm.csproj.AssemblyReference.cache
+D:\CS Project\RinRorm\obj\Debug\RinRorm.Form1.resources
+D:\CS Project\RinRorm\obj\Debug\RinRorm.Properties.Resources.resources
+D:\CS Project\RinRorm\obj\Debug\RinRorm.csproj.GenerateResource.cache
+D:\CS Project\RinRorm\obj\Debug\RinRorm.csproj.CoreCompileInputs.cache
+D:\CS Project\RinRorm\obj\Debug\RinRorm.exe
+D:\CS Project\RinRorm\obj\Debug\RinRorm.pdb
+D:\CS Project\RinRorm\bin\Debug\Interop.WMPLib.dll
+D:\CS Project\RinRorm\bin\Debug\AxInterop.WMPLib.dll
+D:\CS Project\RinRorm\obj\Debug\Interop.WMPLib.dll
+D:\CS Project\RinRorm\obj\Debug\AxInterop.WMPLib.dll
+D:\CS Project\RinRorm\obj\Debug\RinRorm.csproj.ResolveComReference.cache
